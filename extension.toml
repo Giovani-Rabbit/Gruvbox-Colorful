@@ -1,7 +1,7 @@
 id = "gruvbox"
-name = "Gruvbox"
+name = "Gruvbox Colorful"
 version = "0.0.1"
 schema_version = 1
 authors = ["Giovani-Rabbit"]
-description = "Gruvbox Dark Colorful"
+description = "A variation of Gruvbox with a more colorful style."
 repository = "https://github.com/Giovani-Rabbit/Gruvbox-Dark-Colorful"
