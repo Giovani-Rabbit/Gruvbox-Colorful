@@ -1,14 +1,13 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "Gruvbox Colorful",
-  "description": "Gruvbox Dark Colorful",
   "author": "Giovani-Rabbit",
   "themes": [
     {
       "name": "Gruvbox Colorful Transparent",
       "appearance": "dark",
       "style": {
-        "accents": ["#b8bb26", "#fabd2f", "#83a598"],
+        "accents": ["#A9B665FF", "#D8A657FF", "#5D968D", "#EA6962FF"],
         "background.appearance": "opaque",
         "border": "#504a47",
         "border.variant": "#786f6b",
@@ -381,7 +380,7 @@
       "name": "Gruvbox Colorful Dark",
       "appearance": "dark",
       "style": {
-        "accents": ["#b8bb26", "#fabd2f", "#83a598"],
+        "accents": ["#A9B665FF", "#D8A657FF", "#5D968D", "#EA6962FF"],
         "background.appearance": "opaque",
         "border": "#504a47",
         "border.variant": "#786f6b",
