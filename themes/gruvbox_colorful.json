@@ -8,7 +8,7 @@
       "appearance": "dark",
       "style": {
         "accents": ["#A9B665FF", "#D8A657FF", "#5D968D", "#EA6962FF"],
-        "background.appearance": "opaque",
+        "background.appearance": "transparent",
         "border": "#504a47",
         "border.variant": "#786f6b",
         "border.focused": "#b8bb26",
